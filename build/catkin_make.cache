@@ -1,0 +1,2 @@
+LeGo_LOAM/LeGO-LOAM:LeGo_LOAM/cloud_msgs:detected_objects_visualizer:detected_objects_visualizer_front:kf_tracker:lane_detection:lidar_point_pillars:lidar_point_pillars_front:ros_numpy
+-DCATKIN_DEVEL_PREFIX=/home/user/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/user/catkin_ws/install -G Unix Makefiles

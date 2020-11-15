@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yg-ubuntu1804/catkin_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/yg-ubuntu1804/catkin_ws/src/detected_objects_visualizer/include/**",
+                "/home/yg-ubuntu1804/catkin_ws/src/lidar_point_pillars/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

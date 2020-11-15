@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: kf_tracker
+Description: Description of kf_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
